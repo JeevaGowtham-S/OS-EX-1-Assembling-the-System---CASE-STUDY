@@ -1,9 +1,9 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
+## AIM:
 To assemble the components of the computer.
 
-PROCEDURE:
+## PROCEDURE:
 
 
 
@@ -103,5 +103,5 @@ PROCEDURE:
 <img width="611" alt="image" src="https://github.com/AlluguriSrikrishnateja/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118343892/42f330f4-6429-4223-bd36-771b15f71f9c">
 
 
-RESULT:
+## RESULT:
 Hence ,the system is successfully set up.
